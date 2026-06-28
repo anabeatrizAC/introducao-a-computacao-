@@ -1,0 +1,25 @@
+
+🖥️ Windows — Sistema Operacional
+O que é
+
+O Windows é um sistema operacional proprietário desenvolvido pela Microsoft, projetado para gerenciar hardware e software de computadores pessoais, servidores e dispositivos embarcados. É o sistema operacional desktop mais popular do mundo, com 77% de participação de mercado em maio de 2026, e o segundo sistema operacional mais usado no geral, atrás apenas do Android. Wikipedia
+História
+
+Seu desenvolvimento começou em 1981 pela Microsoft, liderado pelos jovens Bill Gates e Paul Allen, apresentando-se na versão inicial com uma interface gráfica bidimensional sobre o MS-DOS. A primeira versão da linha NT, o Windows NT 3.1, era voltada para computação em servidores e estações de trabalho corporativas. TechTudoWikipedia
+Arquitetura atual
+
+Todos os membros da família de produtos Windows são, atualmente, baseados no Windows NT, e consistem em quatro subfamílias lançadas quase simultaneamente, compartilhando o mesmo kernel. O Windows é organizado em famílias voltadas a setores específicos da computação — Windows para computadores pessoais, Windows Server para servidores e Windows IoT para sistemas embarcados — e também em edições para diferentes usuários: Home (usuários domésticos), Professional (usuários avançados), Education (escolas) e Enterprise (corporações). WikipediaWikipedia
+Versão atual mais usada
+
+O Windows 11 é a versão desktop mais usada do Windows, com 72% de participação de mercado em maio de 2026, enquanto o Windows 10 ainda representa 26% do uso mundial, com cerca de 1 bilhão de PCs rodando essa versão em dezembro de 2025. WikipediaWikipedia
+Características principais
+
+Interface gráfica (GUI) com janelas, ícones e menus, facilitando o uso por pessoas não especializadas em computação
+Sistemas de arquivos: NTFS (padrão atual), com suporte legado a FAT32 e ExFAT
+Gerenciamento de hardware via drivers, permitindo comunicação com dispositivos de entrada/saída
+Multitarefa: permite executar vários programas simultaneamente
+Segurança: contas de usuário, firewall, Windows Defender, criptografia de disco
+
+O futuro: Windows 12
+
+A Microsoft pode lançar uma nova versão "modular" do sistema, baseada em uma arquitetura chamada CorePC, que adaptaria o sistema facilmente para desktops, tablets e até plataformas de jogos como o Xbox. A nova versão prometeria integração mais profunda com inteligência artificial, incluindo um explorador de arquivos com busca semântica e maior atenção ao contexto. AdrenalineAdrenaline
